@@ -1,0 +1,10 @@
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\bin\Debug\LinuxTerminalEmulator.exe.config
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\bin\Debug\LinuxTerminalEmulator.exe
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\bin\Debug\LinuxTerminalEmulator.pdb
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\bin\Debug\LinuxTerminalEmulator.xml
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.vbprojResolveAssemblyReference.cache
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.Resources.resources
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.vbproj.GenerateResource.Cache
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.exe
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.xml
+c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.pdb
