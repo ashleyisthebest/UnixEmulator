@@ -1,4 +1,6 @@
-﻿Module TerminalEmulator
+﻿Imports LinuxTerminalEmulator.ConsoleExtender
+
+Module TerminalEmulator
 
     Public command As String
     Public pcUser As String = System.Environment.UserName
@@ -12,6 +14,7 @@
         recongnized = False
 
         'Intro
+        'ConsoleExtender.ConsoleHelper.ConsoleFonts("")
         Console.Title = "Bash Emulator"
         Console.ForegroundColor = ConsoleColor.Green
         Console.Write(pcUser)
