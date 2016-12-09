@@ -8,3 +8,13 @@ c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\Linu
 c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.exe
 c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.xml
 c:\users\ashley\documents\visual studio 2015\Projects\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.pdb
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\bin\Debug\LinuxTerminalEmulator.exe.config
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.exe
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.xml
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.pdb
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\bin\Debug\LinuxTerminalEmulator.exe
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\bin\Debug\LinuxTerminalEmulator.pdb
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\bin\Debug\LinuxTerminalEmulator.xml
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.vbprojResolveAssemblyReference.cache
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.Resources.resources
+C:\Users\Ashley\Documents\GitHub\UnixEmulator\LinuxTerminalEmulator\LinuxTerminalEmulator\obj\Debug\LinuxTerminalEmulator.vbproj.GenerateResource.Cache

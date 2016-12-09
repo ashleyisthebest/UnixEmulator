@@ -7,6 +7,11 @@
     Public recongnized As Boolean
 
     Public Sub Main()
+
+        'Resetting the command recognition
+        recongnized = False
+
+        'Intro
         Console.Title = "Bash Emulator"
         Console.ForegroundColor = ConsoleColor.Green
         Console.Write(pcUser)
@@ -17,14 +22,17 @@
         Console.Write(" $ ")
         command = Console.ReadLine()
 
+        'Checking all the commands
         echo.echo()
         cd.cd()
 
+        'Making sure noting would happen if no command was entered
         If command = "" Then
             recongnized = True
             Main()
         End If
 
+        'Command recognition
         If recongnized = False Then
             Console.BackgroundColor = ConsoleColor.Red
             Console.WriteLine("The command '" + command + "' is not recognised.")
