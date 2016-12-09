@@ -14,7 +14,7 @@ Module TerminalEmulator
         recongnized = False
 
         'Intro
-        'ConsoleExtender.ConsoleHelper.ConsoleFonts("")
+        Console.CursorSize = 1
         Console.Title = "Bash Emulator"
         Console.ForegroundColor = ConsoleColor.Green
         Console.Write(pcUser)
@@ -29,6 +29,7 @@ Module TerminalEmulator
         echo.echo()
         cd.cd()
         ls.ls()
+        cls.cls()
 
         'Making sure noting would happen if no command was entered
         If command = "" Then
