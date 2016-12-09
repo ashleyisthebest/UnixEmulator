@@ -25,6 +25,7 @@
         'Checking all the commands
         echo.echo()
         cd.cd()
+        ls.ls()
 
         'Making sure noting would happen if no command was entered
         If command = "" Then

@@ -70,6 +70,7 @@
   <ItemGroup>
     <Compile Include="cd.vb" />
     <Compile Include="echo.vb" />
+    <Compile Include="ls.vb" />
     <Compile Include="TerminalEmulator.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
